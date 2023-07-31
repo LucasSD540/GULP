@@ -1,0 +1,1 @@
+function soma(o,n){return o+n}function subtrair(o,n){return o-n}console.log(soma(5,3)),console.log(subtrair(4,2));
